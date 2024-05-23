@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="DndSample/App.axaml" value="DndSample/DndSample.csproj" />
+        <entry key="DndSample/DragAndDropPage.axaml" value="DndSample/DndSample.csproj" />
+        <entry key="DndSample/MainWindow.axaml" value="DndSample/DndSample.csproj" />
+        <entry key="DndSample/UserControl1.axaml" value="DndSample/DndSample.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
