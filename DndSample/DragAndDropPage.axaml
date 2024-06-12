@@ -48,6 +48,13 @@
                 DragDrop.AllowDrop="True">
           <TextBlock TextWrapping="Wrap">Drop some text or files here (Move)</TextBlock>
         </Border>
+        <Border Name="MoveTarget2"
+                Padding="16"
+                MaxWidth="260"
+                Background="{DynamicResource SystemAccentColorDark1}"
+                DragDrop.AllowDrop="True">
+          <TextBlock TextWrapping="Wrap">Drop me here (Test)</TextBlock>
+        </Border>
       </StackPanel>
     </WrapPanel>
     
